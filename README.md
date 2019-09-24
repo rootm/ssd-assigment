@@ -1,3 +1,15 @@
+First clone the repository
+
+install nodejs
+
+install angular cli using 'npm install -g @angular/cli'
+
+open terminal in the project location and run 'npm install'
+
+run the project using 'npm start' command. this will create the SSL cert and key file required for https automaticaly
+
+open the URL provided by the compiler
+
 # AuthSSD
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.5.
