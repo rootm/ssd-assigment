@@ -2,11 +2,11 @@ First clone the repository
 
 install nodejs
 
-install angular cli using 'npm install -g @angular/cli'
+install angular cli using `npm install -g @angular/cli`
 
-open terminal in the project location and run 'npm install'
+open terminal in the project location and run `npm install`
 
-run the project using 'npm start' command. this will create the SSL cert and key file required for https automaticaly
+run the project using `npm start` command . this will create the SSL cert and key file required for https automaticaly
 
 open the URL provided by the compiler
 
